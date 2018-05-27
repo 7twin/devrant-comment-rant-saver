@@ -4,9 +4,9 @@
 Save comment or rant, when accidentally clicking outside the textbox area
 
 # TOC
-
 * [Screenshots](#screenshots)
 * [Download](#download)
+* [Possible ToDo](#possible-todo)
 
 # Screenshots
 ![Comments](https://user-images.githubusercontent.com/32747235/40582255-63bd8bf6-6170-11e8-80ab-f8fc7802ec82.gif)
@@ -20,3 +20,6 @@ Download tampermonkey:
 * **Other:** https://tampermonkey.net/ (follow instructions there)
 
 Then install the user-script here: https://github.com/7twin/devrant-comment-rant-saver/raw/master/devrant-comment-rant-saver.user.js
+
+# Possible ToDo
+- [ ] Save rants and comments to localstorage, so they can be recovered even if the tab or browser was closed
