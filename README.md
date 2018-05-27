@@ -23,4 +23,4 @@ Then install the user-script here: https://github.com/7twin/devrant-comment-rant
 
 # Possible ToDo
 - [ ] Save rants and comments to localstorage, so they can be recovered even if the tab or browser was closed
-> Note: make sure to distinguish between the input used for editing a post and an actual new rant/comment textbox, because they have the same name (in case of rant edit: maybe check the url if the rant input is being saved on a rant page or on the feed?)
+> Note: make sure to distinguish between the input used for editing a post and an actual new rant/comment textbox, because they have the same name (in case of rant edit: maybe check the url, if the rant input is being saved on a rant page or on the feed?)
